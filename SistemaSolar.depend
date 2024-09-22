@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1554066180 source:c:\users\henrique\desktop\sistemasolar\main.cpp
+	<iostream>
+	"Sistemasolar.h"
+
+1554064665 source:c:\users\henrique\desktop\sistemasolar\sol.cpp
+	"Sol.h"
+
+1554064662 c:\users\henrique\desktop\sistemasolar\sol.h
+	"Planeta.h"
+
+1554065821 c:\users\henrique\desktop\sistemasolar\planeta.h
+
+1554066431 source:c:\users\henrique\desktop\sistemasolar\sistemasolar.cpp
+	"Sistemasolar.h"
+	"stdafx.h"
+
+1554064488 c:\users\henrique\desktop\sistemasolar\sistemasolar.h
+	"stdafx.h"
+	"Sol.h"
+	"Planeta.h"
+
+1554066509 c:\users\henrique\desktop\sistemasolar\stdafx.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1554066460 source:c:\users\henrique\desktop\sistemasolar\planeta.cpp
+	"stdafx.h"
+	"Planeta.h"
+	"Sol.h"
+
